@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba149e65-8bc8-4b0e-aa5f-5464f87b55ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XZYercSOw7tXzsmj43y0O5rgEV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SimpleCommunityHealthAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SimpleCommunityHealthAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/TestProject/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="SimpleCommunityHealthAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="SimpleCommunityHealthAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="SimpleCommunityHealthAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba149e65-8bc8-4b0e-aa5f-5464f87b55ed" name="Default Changelist" comment="" />
+      <created>1581255182126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581255182126</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1464" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581260669312">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1464" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581260669312" />
+    <state x="1643" y="101" width="715" height="814" key="CommitChangelistDialog2" timestamp="1581265676993">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1643" y="101" width="715" height="814" key="CommitChangelistDialog2/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265676993" />
+    <state width="1278" height="460" key="DebuggerActiveHint" timestamp="1581261439318">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1278" height="460" key="DebuggerActiveHint/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581261439318" />
+    <state x="1789" y="269" width="424" height="479" key="FileChooserDialogImpl" timestamp="1581260660995">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1789" y="269" width="424" height="479" key="FileChooserDialogImpl/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581260660995" />
+    <state width="1259" height="335" key="GridCell.Tab.0.bottom" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.0.bottom/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.0.center" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.0.center/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.0.left" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.0.left/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.0.right" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.0.right/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.1.bottom" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.1.bottom/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.1.center" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.1.center/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.1.left" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.1.left/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state width="1259" height="335" key="GridCell.Tab.1.right" timestamp="1581265679669">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1259" height="335" key="GridCell.Tab.1.right/0.40.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1581265679669" />
+    <state x="187" y="40" key="SettingsEditor" timestamp="1581256767550">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="187" y="40" key="SettingsEditor/0.40.1366.728/1366.0.1280.1024@0.40.1366.728" timestamp="1581256767550" />
+    <state x="366" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1581259108490">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="366" y="231" key="com.intellij.ide.util.TipDialog/0.40.1366.728/1366.0.1280.1024@0.40.1366.728" timestamp="1581259108490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SimpleCommunityHealthAnalysis/test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SimpleCommunityHealthAnalysis/test.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SimpleCommunityHealthAnalysis/test.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SimpleCommunityHealthAnalysis/test.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SimpleCommunityHealthAnalysis/test.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
